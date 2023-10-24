@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1697632741 source:e:\codeblocks projects\c_course_day1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1697631851 source:e:\codeblocks projects\c_course_day1\lab2.c
+	<stdio.h>
+	<stdlib.h>
+
+1697719755 source:e:\codeblocks projects\c_course_day1\lab3.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+

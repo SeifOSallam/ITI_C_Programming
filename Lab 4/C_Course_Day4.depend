@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1697974502 source:e:\codeblocks projects\c_course_day4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Utilities.h"
+
+1697970368 e:\codeblocks projects\c_course_day4\utilities.h
+
+1697976290 source:e:\codeblocks projects\c_course_day4\utilities.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	"Utilities.h"
+
