@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1698172225 source:c:\users\seifsallam\myprograms\codeblocks\workspace\c_course_day6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LineEditor.h"
+
+1698170363 c:\users\seifsallam\myprograms\codeblocks\workspace\c_course_day6\lineeditor.h
+
+1698182063 source:c:\users\seifsallam\myprograms\codeblocks\workspace\c_course_day6\lineeditor.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	"LineEditor.h"
+
