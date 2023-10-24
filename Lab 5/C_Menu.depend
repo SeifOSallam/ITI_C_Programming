@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698054670 source:e:\codeblocks projects\c_menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	"MenuFunctions.h"
+
+1698054745 e:\codeblocks projects\c_menu\menufunctions.h
+
+1698060461 source:e:\codeblocks projects\c_menu\menufunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	"MenuFunctions.h"
+
