@@ -35,9 +35,16 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="LineEditor.h" />
+		<Unit filename="SwapIntegers.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Extensions />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
